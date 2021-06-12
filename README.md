@@ -2,7 +2,7 @@
 
 What is a Calculator?
 
-For those who do not know, a calculator is basically a program on a computer that simulates the behavior of any hand-held calculator useful for performing Mathematical Calculations. It is a very basic device used in our every day lives. Now all the smartphones also have a Calculator application in them.
+For those who do not know, a Calculator is basically a program on a computer that simulates the behavior of any hand-held calculator useful for performing Mathematical Calculations. It is a very basic device used in our every day lives. Now all the smartphones also have a Calculator application in them.
 
 While creating any GUI Application there are mainly two steps:
 
