@@ -8,7 +8,7 @@ While creating any GUI Application there are mainly two steps:
 
 The first step is to create a User Interface.
 
-The second step is the most important one and in this, to add functionalities to the GUI
+The second step is the most important one and in this, to Add functionalities to the GUI
 
 Now let's begin with creating a simple calculator app using Tkinter in Python which is used for basic arithmetic calculations.
 
